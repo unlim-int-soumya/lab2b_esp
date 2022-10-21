@@ -15,8 +15,8 @@ Finally, connect your RP2040 to the LED in the following manner:
 
 
 The GIF of LED blinking is seen below.</Br>
-![](https://github.com/satyajeetburla/Lab-2B-Proposal/blob/main/GIF/Blink.gif)</Br>
-![](https://github.com/satyajeetburla/Lab-2B-Proposal/blob/main/GIF/UART.gif)</Br>
+![](https://github.com/unlim-int-soumya/lab2b_esp/blob/main/GIFs/Blink.gif)</Br>
+![](https://github.com/unlim-int-soumya/lab2b_esp/blob/main/GIFs/UART.gif)</Br>
 
 
 # Circuit Board Proposal
@@ -27,7 +27,8 @@ For the next lab, I've opted to build a circuit utilizing an RP2040, a breadboar
 Although my main goal is to sense the brightness of the room using LDR sensor and display a normalized value using LEDs creating a 7-segement display. After that I will move forward to display its value in a real 7-segment display.
 
 The components that we will be using are shown below. 
-![](https://github.com/satyajeetburla/Lab-2B-Proposal/blob/main/GIF/Breadboard%20(1).png)
+![](https://github.com/unlim-int-soumya/lab2b_esp/blob/main/GIFs/Breadboard%20(1).png)
+
 # Required Components
 1. 7 LEDs
 2. 1 LDR Sensor or Brightness Sensor
