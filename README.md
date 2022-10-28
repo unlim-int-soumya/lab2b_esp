@@ -47,6 +47,5 @@ We already have a breadboard, an RP2040, and three LEDs from the aforementioned 
 1. Bread Board Implementation of Circuit.</Br>
 ![](https://github.com/unlim-int-soumya/lab2b_esp/blob/main/GIFs/gif_1.gif)</Br>
 
-
 2. Proto Board Implementation of circuit.</Br>
 ![](https://github.com/unlim-int-soumya/lab2b_esp/blob/main/GIFs/gif_2.gif)</Br>
